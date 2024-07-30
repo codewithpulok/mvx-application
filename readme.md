@@ -31,7 +31,7 @@ MVX is built using modern technologies to ensure a seamless and engaging experie
 
 You can start using MVX in just a few easy steps:
 
-1. **Clone the Project**: First, make a copy of the MVX project on your computer by going to [GitHub Repository Link](https://github.com/tonmoydeb404/mvx).
+1. **Clone the Project**: First, make a copy of the MVX project on your computer by going to [GitHub Repository Link](https://github.com/codewithpulok/mvx-application).
 
 2. **Install What's Needed**: Open a terminal window, navigate to the project folder, and run this command to install everything required:
 
