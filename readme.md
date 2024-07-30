@@ -59,5 +59,4 @@ You can start using MVX in just a few easy steps:
 
 If you have any questions, suggestions, or just want to say hi, feel free to get in touch:
 
-- **Email**: tonmoydeb404@gmail.com
-- **Portfolio**: [tonmoydeb.com](https://tonmoydeb.com/)
+- **Email**: pulokd2023@gmail.com
